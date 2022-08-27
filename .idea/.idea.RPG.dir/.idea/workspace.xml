@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fb2e3ea-0e42-4389-8530-5d37d3b2e7aa" name="Changes" comment="" />
+    <list default="true" id="8fb2e3ea-0e42-4389-8530-5d37d3b2e7aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,10 @@
       <option name="presentableId" value="Default" />
       <updated>1661586842812</updated>
       <workItem from="1661586844502" duration="19000" />
+      <workItem from="1661587067600" duration="2000" />
+      <workItem from="1661587237205" duration="66000" />
+      <workItem from="1661587461375" duration="4000" />
+      <workItem from="1661587797036" duration="6000" />
     </task>
     <servers />
   </component>
@@ -37,7 +43,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
